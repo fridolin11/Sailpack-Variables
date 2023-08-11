@@ -1,6 +1,8 @@
 # Sailpack-Variables
+
 This Excel File contains the standard names for components in the Sailpack program.
 The components are sorted into following categories and subcategories:
+
 - Standing Rigging
   - Main
   - Mizzen
@@ -35,3 +37,4 @@ The components are sorted into following categories and subcategories:
   - Mizzen
   - Various
 
+Each variable has a standard name and four different possible variations. This Excel should help with unifing the Sailpack models from different users.
